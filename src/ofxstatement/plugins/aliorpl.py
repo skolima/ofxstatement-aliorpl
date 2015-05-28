@@ -14,8 +14,8 @@ class AliorplCsvParser(CsvStatementParser):
 
     mappings = {
                 "date": 0,
-                "payee": 3,
-                "memo": 4,
+                "payee": 4,
+                "memo": 3,
                 "amount": 9,
                 }
 
